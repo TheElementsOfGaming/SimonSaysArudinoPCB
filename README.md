@@ -23,7 +23,7 @@ The Simon Says Game PCB is a fun and interactive way to get into electronics and
 
 To assemble and use the Simon Says Game PCB, you will need the following components:
 
-- 1x Atmega328P-PU Microcontroller
+- 1x Atmega328P Microcontroller (Any variant should work as long as it contains the Arudino bootloader)
 - 4x LED (Red, Blue, Green, Yellow)
 - 4x 220 Ohm resistors
 - 1x Buzzer
