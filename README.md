@@ -10,8 +10,8 @@ The Simon Says Game PCB is a fun and interactive way to get into electronics and
 
 ### Prerequisites
 
-- KiCad 5.0 or later for editing the PCB design files.
-- A PCB manufacturer to produce the board using the provided Gerber files. I use JLCPCB, but feel free to use whatever is most comfortable for you.
+- KiCad 8.0 or later for editing the PCB design files.
+- A PCB manufacturer to produce the board using the provided Gerber files. I use JLCPCB but feel free to use whatever is most comfortable for you.
 
 ### Installation
 
@@ -23,7 +23,7 @@ The Simon Says Game PCB is a fun and interactive way to get into electronics and
 
 To assemble and use the Simon Says Game PCB, you will need the following components:
 
-- 1x Atmega328P Microcontroller (Any variant should work as long as it contains the Arudino bootloader)
+- 1x Atmega328P Microcontroller (Any variant should work as long as it contains the Arduino bootloader)
 - 4x LED (Red, Blue, Green, Yellow)
 - 4x 220 Ohm resistors
 - 1x Buzzer
@@ -32,4 +32,4 @@ To assemble and use the Simon Says Game PCB, you will need the following compone
 ## Usage
 
 1. After assembling the PCB with the necessary components, upload the Simon Says game code to the microcontroller. You can find example Arduino sketches online or we can write your own. 
-2. You'll also need to burn an Arudino bootloader onto the Atmega328P microcontroller. There are plenty of turtoials online to do this or you can purchase a microcontroller that already has the bootloader on it. 
+2. You'll also need to burn an Arduino bootloader onto the Atmega328P microcontroller. There are plenty of tutorials online to do this or you can purchase a microcontroller that already has the bootloader on it. 
