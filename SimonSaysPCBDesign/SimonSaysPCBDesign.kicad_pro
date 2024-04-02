@@ -482,7 +482,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "../../../../AppData/Local/Programs/KiCad/8.0/",
-      "plot": "",
+      "plot": "../Gerber Files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
